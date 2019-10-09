@@ -39,7 +39,7 @@
      inkscape:window-y="0"
      inkscape:window-x="0"
      inkscape:cy="46.413783"
-     inkscape:cx="142.59738"
+     inkscape:cx="28.563837"
      inkscape:zoom="1.5653289"
      id="base"
      pagecolor="#ffffff"
@@ -711,7 +711,7 @@
        inkscape:connector-curvature="0"
        id="HourHand-6"
        d="m 330,93 a 7,7 0 0 0 -7,7 7,7 0 0 0 3.58008,6.10352 L 330.01367,153 333.41992,106.09766 A 7,7 0 0 0 337,100 7,7 0 0 0 330,93 Z"
-       style="fill:#008080;fill-opacity:1;stroke:none;stroke-width:2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1" />
+       style="fill:#007f98;fill-opacity:1;stroke:none;stroke-width:2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1" />
   </g>
   <g
      id="SecondHand"
@@ -802,7 +802,7 @@
        inkscape:connector-curvature="0"
        id="MinuteHand-2"
        d="m 242,93 a 7,7 0 0 0 -7,7 7,7 0 0 0 3.55469,6.08789 L 242,175 245.44531,106.08398 A 7,7 0 0 0 249,100 7,7 0 0 0 242,93 Z"
-       style="fill:#008080;fill-opacity:1;stroke:none;stroke-width:2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1" />
+       style="fill:#007f98;fill-opacity:1;stroke:none;stroke-width:2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1" />
     <g
        transform="translate(-24,0)"
        id="g4351">
@@ -812,7 +812,7 @@
          cx="266"
          inkscape:label="#HandCenterScrew1"
          id="HandCenterScrew1"
-         style="opacity:1;fill:#008080;fill-opacity:1;stroke:none" />
+         style="opacity:1;fill:#007f98;fill-opacity:1;stroke:none" />
       <circle
          r="3"
          cy="100"
@@ -826,7 +826,7 @@
      style="opacity:0.01000001;fill:#008080;fill-opacity:0.00392157;stroke:none"
      id="Glass"
      inkscape:label="#Glass"
-     cx="110.19492"
+     cx="109.55608"
      cy="109.64763"
      r="97" />
   <rect
