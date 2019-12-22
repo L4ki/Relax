@@ -23,12 +23,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1280"
-     inkscape:window-height="977"
+     inkscape:window-height="982"
      id="namedview58"
      showgrid="false"
-     inkscape:zoom="4.4500586"
-     inkscape:cx="24.731383"
-     inkscape:cy="36.628322"
+     inkscape:zoom="1.5733333"
+     inkscape:cx="35.445815"
+     inkscape:cy="164.14231"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -87,7 +87,7 @@
       }</style>
   </defs>
   <rect
-     style="fill:#65abab;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     style="fill:#5e81ac;fill-opacity:1;fill-rule:nonzero;stroke:none"
      id="hint-tile-center"
      width="2.0329318"
      height="2.077126"
@@ -230,31 +230,31 @@
      inkscape:connector-curvature="0" />
   <path
      class="ColorScheme-ViewFocus"
-     style="color:#3daee9;opacity:0.05;fill:#65abab;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     style="color:#3daee9;opacity:0.05;fill:#006a80;fill-opacity:1;fill-rule:nonzero;stroke:none"
      d="M 6.7422852,7.8411166 V 18.841122 H 17.742284 V 7.8411166 Z"
      id="pressed-center"
      inkscape:connector-curvature="0" />
   <path
      class="ColorScheme-ViewFocus"
-     style="color:#3daee9;opacity:0.1;fill:#65abab;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     style="color:#3daee9;opacity:0.1;fill:#006a80;fill-opacity:1;fill-rule:nonzero;stroke:none"
      d="M 17.742285,7.8411166 V 18.841122 h 2 c 6.68e-4,-0.01835 0,-0.0344 0,-0.05289 V 7.8940016 c 0,-0.0185 6.68e-4,-0.03453 0,-0.05288 h -2 z"
      id="pressed-right"
      inkscape:connector-curvature="0" />
   <path
      class="ColorScheme-ViewFocus"
-     style="color:#3daee9;opacity:0.1;fill:#65abab;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     style="color:#3daee9;opacity:0.1;fill:#006a80;fill-opacity:1;fill-rule:nonzero;stroke:none"
      d="m 6.7422852,5.8410696 v 2.000047 H 17.742284 v -2.000047 c -0.0041,-6.7e-4 0.0045,0 3.01e-4,0 H 6.7541452 c -0.004,0 -0.008,-6.7e-4 -0.0119,0 z"
      id="pressed-top"
      inkscape:connector-curvature="0" />
   <path
      class="ColorScheme-ViewFocus"
-     style="color:#3daee9;opacity:0.1;fill:#65abab;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     style="color:#3daee9;opacity:0.1;fill:#006a80;fill-opacity:1;fill-rule:nonzero;stroke:none"
      d="m 4.7425852,7.8411166 c -6.7e-4,0.01835 0,0.03439 0,0.05288 V 18.788227 c 0,0.0185 -6.7e-4,0.03453 0,0.05288 h 2 V 7.8411016 h -2 z"
      id="pressed-left"
      inkscape:connector-curvature="0" />
   <path
      class="ColorScheme-ViewFocus"
-     style="color:#3daee9;opacity:0.1;fill:#65abab;fill-opacity:1;fill-rule:nonzero"
+     style="color:#3daee9;opacity:0.1;fill:#006a80;fill-opacity:1;fill-rule:nonzero"
      d="m 6.7425852,18.841102 v 2 H 17.742585 v -2 z"
      id="pressed-bottom"
      inkscape:connector-curvature="0" />
@@ -262,11 +262,11 @@
      class="ColorScheme-ViewFocus"
      id="pressed-topleft"
      d="m 4.7422522,5.8410696 v 2.000047 h 1.999722 v -2.000047 c -7.45e-4,-6.7e-4 8.18e-4,0 5.5e-5,0 h -1.997621 c -7.27e-4,0 -0.0015,-6.7e-4 -0.0022,0 z"
-     style="color:#3daee9;opacity:0.1;fill:#65abab;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     style="color:#3daee9;opacity:0.1;fill:#006a80;fill-opacity:1;fill-rule:nonzero;stroke:none"
      inkscape:connector-curvature="0" />
   <path
      class="ColorScheme-ViewFocus"
-     style="color:#3daee9;opacity:0.1;fill:#65abab;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     style="color:#3daee9;opacity:0.1;fill:#006a80;fill-opacity:1;fill-rule:nonzero;stroke:none"
      d="m 17.742629,5.8410696 v 2.000047 h 1.999722 v -2.000047 c -7.45e-4,-6.7e-4 8.18e-4,0 5.5e-5,0 h -1.997621 c -7.27e-4,0 -0.0015,-6.7e-4 -0.0022,0 z"
      id="pressed-topright"
      inkscape:connector-curvature="0" />
@@ -274,11 +274,11 @@
      class="ColorScheme-ViewFocus"
      id="pressed-bottomright"
      d="m 17.742629,18.841055 v 2.000047 h 1.999722 v -2.000047 c -7.45e-4,-6.7e-4 8.18e-4,0 5.5e-5,0 h -1.997621 c -7.27e-4,0 -0.0015,-6.7e-4 -0.0022,0 z"
-     style="color:#3daee9;opacity:0.1;fill:#65abab;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     style="color:#3daee9;opacity:0.1;fill:#006a80;fill-opacity:1;fill-rule:nonzero;stroke:none"
      inkscape:connector-curvature="0" />
   <path
      class="ColorScheme-ViewFocus"
-     style="color:#3daee9;opacity:0.1;fill:#65abab;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     style="color:#3daee9;opacity:0.1;fill:#006a80;fill-opacity:1;fill-rule:nonzero;stroke:none"
      d="m 4.7426292,18.841055 v 2.000047 h 1.999722 v -2.000047 c -7.45e-4,-6.7e-4 8.18e-4,0 5.5e-5,0 h -1.997621 c -7.27e-4,0 -0.0015,-6.7e-4 -0.0022,0 z"
      id="pressed-bottomleft"
      inkscape:connector-curvature="0" />
