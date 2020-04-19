@@ -17,3 +17,8 @@ Changelog: 21.10.2019.
 ----------------------
 
 Added widgets:action-overlays.svg, listitem.svg
+
+Changelog: 19.04.2020.
+----------------------
+
+Modified widgets: background.svg, panel-background.svg, tooltip.svg
